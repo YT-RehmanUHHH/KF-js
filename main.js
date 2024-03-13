@@ -47,7 +47,7 @@ function btnClicked() {
   //   if statements
   if (name.toLowerCase() == "po") {
     charNameEl.innerHTML = `Po`;
-    charQuoteEl.innerHTML = `"Buddy I am the Dragon Warrior!"`;
+    charQuoteEl.innerHTML = `"Buddy, I am the Dragon Warrior!"`;
     charImgEl.src = "img/po.png";
   } else if (name.toLowerCase() == "tigress") {
     charNameEl.innerHTML = `Tigress`;
